@@ -1,10 +1,15 @@
 {
-   "servers": {
-      "51.91.91.107": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjc98AQ"
+   "servers":{
+      "51.91.91.107":{
+         "key":"X6qFxKLguwEslf8RFhqimevvlwjc98AQ"   
       },
-      "146.103.26.97": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjc88AB"
+   "servers":{
+      "146.103.26.97":{
+         "key":"X6qFxKLguwEslf8RFhqimevvlwjc88AB"   
       },
+   "servers":{
+      "45.8.196.37":{
+         "key":"X6qFxKLguwEslf8RFhqimevvlwjc44EE"   
+      }
    }
 }
