@@ -1,70 +1,19 @@
 {
    "servers": {
-      "146.103.26.139": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjc44EE"
-      },
-      "213.32.120.112": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjcD77S"
-      },
-      "51.91.91.107": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjc98AQ"
-      },
-      "193.35.154.20": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjc22SD"
-      },
-      "93.114.183.131": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjc98AQ"
-      },
-      "45.9.30.52": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjc9893"
-      },
-      "146.103.26.141": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjc88UY"
-      },
-      "146.103.26.148": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjc65TY"
-      },
-      "45.9.30.70": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjc22XS"
-      },
-      "152.89.254.250": {
-         "key": "FlexqKLguwEslf8RFhqimevvlwjcHH88"
-      },
-      "46.37.117.30": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjcVİPE"
-      },
-      "87.248.157.13": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjcAS23"
-      },
-      "45.150.149.114": {
-         "key": "X6qFxKLguwEslf8RFhqimevvlwjc98SQ"
-      }, 
-      "31.59.131.77": {
-         "key": "O9qFxKLguwEslf8RFhqimevvlwjc98KJ"
-      }, 
       "178.208.187.100": {
          "key": "O9qFxKLguwEslf8RFhqimevvlwjcVİP2"
       }, 
-      "31.58.250.32": {
-         "key": "23qFxKLguwEslf8RFhqimevvlwjcVİ22"
-      }, 
-      "185.160.30.14": {
-         "key": "MTqFxKLguwEslf8RFhqimevvlwjc234A"
-      }, 
-      "146.103.26.141": {
-         "key": "OW2FxKLguwEslf8RFhqimevvlwjc23DD"
-      }, 
-      "45.150.149.114": {
-         "key": "222FxKLguwEslf8RFhqimevvlwjc23SD"
-      }, 
-      "195.206.235.43": {
-         "key": "122FxKLguwEslf8RFhqimevvlwjc2345"
-      }, 
+      "194.87.59.5": {
+         "key": "ZXqFxKLguwEslf8RFhqimevvlwjcDD15"
+      },
       "46.203.248.48": {
          "key": "662FxKLguwEslf8RFhqimevvlwjc23XX"
       }, 
-      "194.87.59.5": {
-         "key": "ZXqFxKLguwEslf8RFhqimevvlwjcDD15"
+      "193.35.154.20": {
+         "key": "X6qFxKLguwEslf8RFhqimevvlwjc22SD"
+      },
+      "146.103.26.141": {
+         "key": "X6qFxKLguwEslf8RFhqimevvlwjc88UY"
       }
    }
 }
