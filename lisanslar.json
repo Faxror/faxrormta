@@ -1,0 +1,16 @@
+{
+  "licenses": [
+    {
+      "ip": "31.57.77.166",
+      "customer": "Müşteri Adı",
+      "expiry_date": "2025-12-31T23:59:59",
+      "features": [ "ocr", "detection" ]
+    },
+    {
+      "ip": "98.76.54.32",
+      "customer": "Başka Müşteri",
+      "expiry_date": "2025-06-15T23:59:59",
+      "features": [ "ocr" ]
+    }
+  ]
+}
