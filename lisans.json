@@ -1,7 +1,10 @@
-{
+{ 
    "servers": {
       "5.181.183.89": {
          "key": "O9qFxKLguwEslf8RFhqimevvlwjcVİP2"
+      }, 
+      "94.156.113.135": {
+         "key": "O9qFxKLguwEslf8RFhqimevvlwjcVXP2"
       }, 
       "89.40.70.5": {
          "key": "DhrKeAuJHl7TI7rfgn0BV2VQsNZDbXpo"
